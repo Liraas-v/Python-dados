@@ -9,6 +9,7 @@ Notebooks de estudo da trilha **Python para Dados** da Alura.
 | Aula-01.ipynb | Introdução ao Python para Dados — tipos, estruturas, primeiras análises |
 | Aula-02.ipynb | Manipulação de dados com pandas — DataFrames, filtros, agrupamentos |
 | Aula-03.ipynb | Visualização e análise exploratória |
+| Aula-04.ipynb | Tratamento de exceções — try/except/else/finally e raise |
 
 ## Stack
 
